@@ -2,7 +2,7 @@
 ## Below is a snippet of the Power BI dashboard, which provides a visual representation of social media usage patterns and their impact on productivity
 ![image](https://github.com/user-attachments/assets/eac156e9-565d-4b5a-9458-7df6c8676f38)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/20102519-09c4-4cca-883c-098374b2d74d)
 
 # Cyber_Scrape
 
